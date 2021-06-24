@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <integer-array name="ids">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </integer-array>
+
+    <string-array name="names">
+        <item>Список фильмов</item>
+        <item>Рецепт блинчиков</item>
+        <item>Как заменить свечи</item>
+    </string-array>
+
+    <string-array name="dates">
+        <item>20.05.2021</item>
+        <item>15.05.2021</item>
+        <item>09.04.2021</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>Много много много фильмов</item>
+        <item>Молоко, сахар, сода, яйца, соль</item>
+        <item>https://www.drive2.ru/l/458504871071490821/</item>
+    </string-array>
+
+</resources>
